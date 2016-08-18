@@ -1,0 +1,47 @@
+{
+    "unidad": "Personas",
+    "valores": [
+        {
+          "nivel1": "Manufactura y construcción",
+          "nivel2": "Apoyo a la juventud",
+          "nivel3": "Servicios personales",
+          "nivel4": "Prima quinquenal por años de servicios efectivos presta dos.",
+          "valor": 55000
+        },
+        {
+          "nivel1": "Manufactura y construcción",
+          "nivel2": "Construcción y ampliacion de infraestructura de desarrollo social",
+          "nivel3": "Servicios personales",
+          "nivel4": "Prima quinquenal por años de servicios efectivos presta dos.",
+          "valor": 55456
+        },
+        {
+          "nivel1": "Comercio",
+          "nivel2": "Apoyo administrativo",
+          "nivel3": "Servicios personales",
+          "nivel4": "Cuotas para el fondo de ahorro y fondo de trabajo",
+          "valor": 43000
+        },
+        {
+          "nivel1": "Comercio",
+          "nivel2": "Capacitación y actualización a servidores públicos",
+          "nivel3": "Servicios personales",
+          "nivel4": "Cuotas para el fondo de ahorro y fondo de trabajo",
+          "valor": 28356
+        },
+        {
+          "nivel1": "Servicios empresariales y relacionados",
+          "nivel2": "Servicio y ayuda de asistencia social",
+          "nivel3": "Materiales y suministros",
+          "nivel4": "Materiales, útiles y equipos menores de oficina",
+          "valor": 32566
+        },
+        {
+          "nivel1": "Agricultura",
+          "nivel2": "Balizamiento en vialidades",
+          "nivel3": "Materiales y suministros",
+          "nivel4": "Otros materiales y artículos de construcción y reparación",
+          "valor": 25888
+        }
+    ]
+}
