@@ -5,7 +5,7 @@ Descripción de archivos principales:
 
 - `treemap.html` <br>- Archivo html en el que se importan principalmente:
   * Librería de la visualización
-  * Archivo `js` con diversas funcionalidades (`js/treempa.js`)
+  * Archivo `js` con diversas funcionalidades (`js/treemap.js`)
   * **Contendor para la gráfica**, que en este caso se debe definir en el html como: `<div id="treemapd3"></div>`<br><br>
   
   
