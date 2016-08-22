@@ -23,7 +23,7 @@ Además los **nombres** o `keys` de los valores deben ser iguales a los dej Json
 
 **Estructura**
 
-
+```
 {
 	"unidad": "Personas",
 	"valores": [
@@ -36,6 +36,7 @@ Además los **nombres** o `keys` de los valores deben ser iguales a los dej Json
 		}
 	]
 }
+```
 
 - "unidad" //Se muestra como texto dentro del popup de cada área del treemap
 - "valores" //Son los valores en que se agrupa el Treemap, si se quieren tener más o menos niveles de profundidad, estos se deben especificar en el archivo `js/treemap.js` en la variable `idVal`
