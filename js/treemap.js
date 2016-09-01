@@ -71,7 +71,7 @@ $(document).ready(function(){
           return formatted;
         }
         else {
-          return formatted;
+          return formatted + '%';
         }
       },
       "locale":"es_ES"
